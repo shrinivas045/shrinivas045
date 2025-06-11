@@ -25,9 +25,10 @@ I’m a passionate Data Analyst with a strong foundation in Computer Science, cu
 
 ## 📄 Resume & Contact
 
-- 📄 **[View My Resume](https://your-resume-link.com)**  
+- 📄 **[View My Resume](https://github.com/shrinivas045/portfolio/raw/main/Shri_Resume_New.pdf)**  
 - 📧 **Email:** shripatil1358@gmail.com  
 - 🔗 **LinkedIn:** [linkedin.com/in/shree045](https://www.linkedin.com/in/shree045)
+
 
 ---
 
