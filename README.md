@@ -19,9 +19,9 @@
 
 ## 👨‍💻 About Me
 
-I’m a passionate *Data Analyst* with a strong foundation in Computer Science, currently pursuing *B.Tech in CSE* at Sanjay Ghodawat University. I specialize in *data analysis, **SQL querying, and building interactive dashboards using **Power BI* and *Excel*.
+I’m a passionate Data Analyst with a strong foundation in Computer Science, currently pursuing B.Tech in CSE at Sanjay Ghodawat University. I specialize in data analysis, SQL querying, and building interactive dashboards using Power BI and Excel.
 
-💼 Experienced in internships across *Retail, Finance, and Healthcare* domains, using real-world datasets  
+💼 Experienced in internships across Retail, Finance, and Healthcare domains, using real-world datasets  
 📊 Skilled at transforming raw data into valuable insights and actionable KPIs  
 ⚙ Curious, analytical, and always striving to learn and grow
 
