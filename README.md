@@ -40,9 +40,13 @@ I’m a passionate *Data Analyst* with a strong foundation in Computer Science, 
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 📚 Libraries & Concepts  
-Pandas • NumPy • Matplotlib • Seaborn  
-Data Modeling • EDA • DAX • OOPs • Statistics
+### 📚 Libraries  
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-006699?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3B8BBA?style=for-the-badge)
+ 
 
 ---
 
