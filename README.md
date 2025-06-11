@@ -10,9 +10,7 @@
     <img height="40" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/shrinivas045" target="_blank">
-    <img height="40" src="https://img.icons8.com/material-outlined/48/github.png" alt="GitHub"/>
-  </a>
+ 
 </p>
 
 ---
