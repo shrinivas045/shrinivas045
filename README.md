@@ -53,15 +53,15 @@ I’m a passionate Data Analyst with a strong foundation in Computer Science, cu
 ## 📈 Projects
 
 ### 🎵 Music Store Data Analysis | SQL  
-- Wrote 15+ advanced queries using *joins, subqueries, CTEs, and window functions*  
-- Identified *top customers, **best genres, and **artist trends* by region  
+- Wrote 15+ advanced queries using joins, subqueries, CTEs, and window functions 
+- Identified top customers, best genres, and artist trends by region  
 
 ### 🚗 Car Sales Dashboard | Power BI, Excel, SQL  
-- Built a dynamic dashboard to analyze car sales by *region, **model, and **inventory*  
-- Implemented *DAX KPIs* to monitor revenue growth and top categories  
+- Built a dynamic dashboard to analyze car sales by region, model, and inventory 
+- Implemented DAX KPIs to monitor revenue growth and top categories  
 
 ### 📊 Comparative Analysis Dashboard | Power BI  
-- Designed a YoY variance dashboard using *tooltips, **DAX, and **custom visuals*  
+- Designed a YoY variance dashboard using tooltips, DAX, and custom visuals  
 - Enhanced decision-making through actionable insights for stakeholders  
 
 ---
@@ -77,18 +77,18 @@ I’m a passionate Data Analyst with a strong foundation in Computer Science, cu
 ### 🏢 One IT – Data Analyst Intern  
 📍 Gadhinglaj | 🗓 Jun 2024 – Sep 2024  
 - Wrote SQL queries to extract insights  
-- Developed *Power BI dashboards* for tracking KPIs  
-- Performed *EDA & validation* using Excel  
+- Developed Power BI dashboards for tracking KPIs  
+- Performed EDA & validation using Excel  
 
 ---
 
 ## 🎓 Education
 
-🎓 *B.Tech in Computer Science*  
+🎓 B.Tech in Computer Science  
 Sanjay Ghodawat University – CGPA: 8.0/10 (2021–2025)  
 
-🏫 *HSC – M R Junior College* – 88.67%  
-🏫 *SSC – Halkarni High School* – 84.20%  
+🏫 HSC – M R Junior College – 88.67%  
+🏫 SSC – Halkarni High School – 84.20%  
 
 ---
 
