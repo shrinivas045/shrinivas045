@@ -115,12 +115,7 @@ Sanjay Ghodawat University – CGPA: 8.0/10 (2021–2025)
   <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/shree045">linkedin.com/in/shree045</a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/shrinivas045" target="_blank">
-    <img src="https://img.icons8.com/material-outlined/30/github.png" alt="GitHub"/>
-  </a>
-  <strong>GitHub:</strong> <a href="https://github.com/shrinivas045">github.com/shrinivas045</a>
-</p>
+
 
 ---
 
