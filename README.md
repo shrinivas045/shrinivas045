@@ -9,8 +9,6 @@
   <a href="https://www.linkedin.com/in/shree045" target="_blank">
     <img height="40" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
- 
 </p>
 
 ---
@@ -22,6 +20,14 @@ I’m a passionate Data Analyst with a strong foundation in Computer Science, cu
 💼 Experienced in internships across Retail, Finance, and Healthcare domains, using real-world datasets  
 📊 Skilled at transforming raw data into valuable insights and actionable KPIs  
 ⚙ Curious, analytical, and always striving to learn and grow
+
+---
+
+## 📄 Resume & Contact
+
+- 📄 **[View My Resume](https://your-resume-link.com)**  
+- 📧 **Email:** shripatil1358@gmail.com  
+- 🔗 **LinkedIn:** [linkedin.com/in/shree045](https://www.linkedin.com/in/shree045)
 
 ---
 
@@ -44,7 +50,6 @@ I’m a passionate Data Analyst with a strong foundation in Computer Science, cu
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-006699?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3B8BBA?style=for-the-badge)
- 
 
 ---
 
@@ -93,27 +98,7 @@ Sanjay Ghodawat University – CGPA: 8.0/10 (2021–2025)
 ## 🏅 Certifications
 
 - 🎓 Accenture Data Analytics and Visualization Virtual Internship  
-- 🧠 SQL for Data Analysis – Udemy
-
----
-
-## 📫 Contact
-
-<p align="left">
-  <a href="mailto:shripatil1358@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/30/gmail-new.png" alt="Gmail"/>
-  </a>
-  <strong>Email:</strong> shripatil1358@gmail.com
-</p>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/shree045" target="_blank">
-    <img src="https://img.icons8.com/color/30/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/shree045">linkedin.com/in/shree045</a>
-</p>
-
-
+- 🧠 SQL for Data Analysis – Udemy  
 
 ---
 
