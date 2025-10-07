@@ -73,7 +73,7 @@ I’m a passionate Data Analyst with a strong foundation in Computer Science, cu
 ## 💼 Experience
 
 ### 🏢 ASDR Infotech – Data Analyst Intern  
-📍 Pune | 🗓 Jan 2025 – Present  
+📍 Pune | 🗓 Jan 2025 – Jun 2025  
 - Analyzed 10K+ records across diverse industries  
 - Created reports & visualizations aligned to business needs  
 - Enabled data-driven operations via custom dashboards
@@ -91,8 +91,8 @@ I’m a passionate Data Analyst with a strong foundation in Computer Science, cu
 🎓 B.Tech in Computer Science  
 Sanjay Ghodawat University – CGPA: 8.09/10 (2021–2025)  
 
-🏫 HSC – M R Junior College – 88.67%  
-🏫 SSC – Halkarni High School – 84.20%  
+🏫 HSC – M R Junior College – 88.67% (2019–2021) 
+🏫 SSC – Halkarni High School – 84.20% (2017–2019)  
 
 ---
 
