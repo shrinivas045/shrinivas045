@@ -89,7 +89,7 @@ I’m a passionate Data Analyst with a strong foundation in Computer Science, cu
 ## 🎓 Education
 
 🎓 B.Tech in Computer Science  
-Sanjay Ghodawat University – CGPA: 8.0/10 (2021–2025)  
+Sanjay Ghodawat University – CGPA: 8.09/10 (2021–2025)  
 
 🏫 HSC – M R Junior College – 88.67%  
 🏫 SSC – Halkarni High School – 84.20%  
